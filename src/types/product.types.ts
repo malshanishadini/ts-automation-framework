@@ -6,4 +6,3 @@ export interface Product {
     category: 'backpack' | 'bike-light' | 't-shirt';
 }
 
-export type UserOverrides = Partial<Product>;
